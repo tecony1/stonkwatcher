@@ -1,0 +1,9 @@
+{
+  "name": "stonkfun-pair-watcher",
+  "version": "1.0.0",
+  "type": "module",
+  "engines": { "node": ">=18" },
+  "scripts": {
+    "start": "node stonkfun-pair-watcher.mjs"
+  }
+}
